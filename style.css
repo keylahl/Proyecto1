@@ -17,7 +17,7 @@ h1 {
     margin-bottom: 5px;
 }
 p {
-    font-size 1.1rem;
+    font-size: 1.1rem;
     line-height: 1.6;
 }
 footer{
@@ -38,7 +38,7 @@ footer{
 .menu-nav li {
      display: flex;
      justify-content: center;
-     list.style: none;
+     list-style: none;
      padding: 0;
      margin-top: 15px;
 }
@@ -47,10 +47,10 @@ footer{
     width: 80%;
     margin: 20px auto;
     background-color:#ebede4;
-    padding.20px;
+    padding:20px;
     border: 1px solid #eee;
     border-radius: 8px;
-}
+} 
 .titulo-principal {
     text-align: center;
 }
